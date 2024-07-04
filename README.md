@@ -6,6 +6,11 @@ There is a very simple, user prompt and feedback loop to interact with Claude.
 
 The single configured tool is just a mock implementation that returns a fixed string per location.
 
+## See also
+
+I have a Typescript example using the Anthropic SDK here:
+[typescript-anthropic-tool-use-example](https://github.com/codewithpassion/typescript-anthropic-tool-use-example/)
+
 ## Installation
 
 ```bash
